@@ -12,4 +12,6 @@ Add the repo to /etc/pacman.conf
 
 A bit more info: https://forum.artixlinux.org/index.php/topic,10298
 
-PKGBUILD's https://github.com/gripped/sonicde-artix-unofficial-pkgbuilds
+PKGBUILD's: https://github.com/gripped/sonicde-artix-unofficial-pkgbuilds
+
+The script that builds it: https://github.com/gripped/sonicde-artix-unofficial-script
